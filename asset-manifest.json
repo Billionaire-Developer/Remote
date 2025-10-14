@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RemoteHub/static/css/main.f0056ac9.css",
+    "main.js": "/RemoteHub/static/js/main.4ded0de1.js",
+    "static/js/453.8ab44547.chunk.js": "/RemoteHub/static/js/453.8ab44547.chunk.js",
+    "static/media/pexels-tima-miroshnichenko-5685952.jpg": "/RemoteHub/static/media/pexels-tima-miroshnichenko-5685952.b8da476b846eaab4023e.jpg",
+    "static/media/Hiring.jpg": "/RemoteHub/static/media/Hiring.0ac4b72a865a2407a896.jpg",
+    "static/media/Research.jpg": "/RemoteHub/static/media/Research.e54b175ab6a3935f7a11.jpg",
+    "static/media/Integration (2).jpg": "/RemoteHub/static/media/Integration (2).429583ff6c7261bd10a5.jpg",
+    "static/media/Cs.png": "/RemoteHub/static/media/Cs.12b68a4fe8dde6daeb57.png",
+    "static/media/logo.jpg": "/RemoteHub/static/media/logo.107984e7381f60e5d3b1.jpg",
+    "static/media/Phil.jpg": "/RemoteHub/static/media/Phil.35d57d25626ff0e4ccdd.jpg",
+    "index.html": "/RemoteHub/index.html",
+    "main.f0056ac9.css.map": "/RemoteHub/static/css/main.f0056ac9.css.map",
+    "main.4ded0de1.js.map": "/RemoteHub/static/js/main.4ded0de1.js.map",
+    "453.8ab44547.chunk.js.map": "/RemoteHub/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0056ac9.css",
+    "static/js/main.4ded0de1.js"
+  ]
+}
