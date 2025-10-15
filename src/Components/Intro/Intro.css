@@ -51,3 +51,83 @@
     justify-content: flex-end;
     padding-top: 50px;
 }
+
+
+/* ==================== RESPONSIVE STYLES ==================== */
+
+/* Medium screens (tablets and small laptops) */
+@media (max-width: 1024px) {
+  .intro {
+    width: 85%;
+    height: auto;
+    padding: 40px 60px;
+  }
+
+  .intro-content h1 {
+    font-size: 50px;
+  }
+
+  .intro-content p {
+    font-size: 18px;
+  }
+
+  .intro-content button {
+    width: 220px;
+    height: 55px;
+    font-size: 18px;
+  }
+
+  .intro-right {
+    justify-content: center;
+    padding-top: 20px;
+  }
+}
+
+/* Small screens (mobile) */
+@media (max-width: 768px) {
+  .intro {
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+    padding: 30px 20px;
+    border-radius: 30px;
+    text-align: center;
+  }
+
+  .intro-content h1 {
+    font-size: 36px;
+  }
+
+  .intro-content p {
+    font-size: 16px;
+  }
+
+  .intro-content button {
+    width: 200px;
+    height: 50px;
+    font-size: 16px;
+    margin: 20px auto;
+  }
+
+  .intro-right {
+    justify-content: center;
+    padding-top: 10px;
+  }
+}
+
+/* Extra small screens (mobile under 480px) */
+@media (max-width: 480px) {
+  .intro-content h1 {
+    font-size: 28px;
+  }
+
+  .intro-content p {
+    font-size: 14px;
+  }
+
+  .intro-content button {
+    width: 180px;
+    height: 45px;
+    font-size: 15px;
+  }
+}
