@@ -66,8 +66,14 @@
     transform: scale(1.1);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
+    .hero {
+    height: auto;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+}
     .hero-left h2 {
-        font-size: 45px;
+        font-size: 35px;
     }
 }
